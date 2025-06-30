@@ -61,6 +61,7 @@ Capture live network packets using Wireshark and identify basic network protocol
 
 ### 📊 Protocol Hierarchy View
 
+![](https://github.com/Vamsi212/Task-5-Network-Traffic-Capture/blob/f2b1758dec094ececc7f931152e7b0fedcfaa81d/screenshots/Screenshot%20(423).png)
 
 ---
 
