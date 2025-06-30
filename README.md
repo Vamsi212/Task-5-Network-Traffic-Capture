@@ -38,6 +38,18 @@ Capture live network packets using Wireshark and identify basic network protocol
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Live Capture in Progress
+
+
+### 🗂️ Filtered DNS Traffic
+
+
+### 📶 Protocol Hierarchy Display
+
+
+
 ## 📁 Files Included
 
 - `traffic_capture.pcap`: Raw packet capture file.
