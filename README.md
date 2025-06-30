@@ -17,7 +17,6 @@ Capture live network packets using Wireshark and identify basic network protocol
 2. **Started a live capture** on the active interface (`Wi-Fi`/`Ethernet`).
 3. **Generated traffic** by:
    - Browsing websites (e.g., `example.com`)
-   - Running terminal commands (`ping google.com`)
    - Accessing local network services
 4. **Stopped the capture** after approximately 1 minute.
 5. **Applied filters** in Wireshark to analyze protocols.
@@ -47,24 +46,22 @@ Capture live network packets using Wireshark and identify basic network protocol
 ## 📸 Screenshots
 
 ### 🖥️ Live Capture in Progress
-![Live Capture](screenshots/live-capture.png)
+
 
 ### 🌐 DNS Traffic Filtered
-![DNS Filter](screenshots/dns-filter.png)
+
 
 ### 🔐 TLSv1.2 Packets
-![TLSv1.2 Traffic](screenshots/tls-packets.png)
+
 
 ### 📊 Protocol Hierarchy View
-![Protocol Hierarchy](screenshots/protocol-hierarchy.png)
 
-> *Make sure you upload your screenshots to the `screenshots/` folder and match the file names above.*
 
 ---
 
 ## 📁 Files Included
 
-- `traffic_capture.pcap`: Captured network traffic.
+- `traffic_capture.pcapng`: Captured network traffic.
 - `screenshots/`: Folder containing evidence of capture and protocol identification.
 - `README.md`: This documentation/report.
 
