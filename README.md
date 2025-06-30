@@ -1,4 +1,4 @@
-# 🛡️ Task 5 - Network Traffic Capture & Protocol Analysis (Wireshark)
+# Task 5 - Network Traffic Capture & Protocol Analysis (Wireshark)
 
 ## 📌 Objective
 Capture live network packets using Wireshark and identify basic network protocols in the traffic.
