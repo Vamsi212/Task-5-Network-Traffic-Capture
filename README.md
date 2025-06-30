@@ -56,7 +56,7 @@ Capture live network packets using Wireshark and identify basic network protocol
 
 ![](https://github.com/Vamsi212/Task-5-Network-Traffic-Capture/blob/00130df3bc7944241dda79d3b051ca66dacdff54/screenshots/Screenshot%20(426).png)
 
-### 🔐 TLSv1.2 Packets
+### 🔐 TCP Traffic Filtered
 
 
 ### 📊 Protocol Hierarchy View
