@@ -47,6 +47,10 @@ Capture live network packets using Wireshark and identify basic network protocol
 
 ### 🖥️ Live Capture in Progress
 
+![](https://github.com/Vamsi212/Task-5-Network-Traffic-Capture/blob/c126bd40d0c98a72072b094f3dd197acf33cc617/screenshots/Screenshot%20(424).png)
+
+![](https://github.com/Vamsi212/Task-5-Network-Traffic-Capture/blob/c126bd40d0c98a72072b094f3dd197acf33cc617/screenshots/Screenshot%20(425).png)
+
 
 ### 🌐 DNS Traffic Filtered
 
