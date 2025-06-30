@@ -21,7 +21,7 @@ Capture live network packets using Wireshark and identify basic network protocol
 4. **Stopped the capture** after approximately 1 minute.
 5. **Applied filters** in Wireshark to analyze protocols.
 6. **Identified and noted down** multiple distinct protocols.
-7. **Exported the capture** as a `.pcap` file.
+7. **Exported the capture** as a `.pcapng` file.
 8. **Compiled this short report.**
 
 ---
