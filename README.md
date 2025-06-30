@@ -7,7 +7,7 @@ Capture live network packets using Wireshark and identify basic network protocol
 
 ## 🧰 Tools Used
 - **Wireshark**: Network protocol analyzer for capturing and analyzing packets.
-- **Operating System**: [Your OS - e.g., Windows 10 / Ubuntu 22.04]
+- **Operating System**: Windows 11
 
 ---
 
